@@ -1,4 +1,5 @@
 AppBar
+Registre
 Login
 Scaffold
 Secció1
