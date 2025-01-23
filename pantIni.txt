@@ -1,0 +1,4 @@
+AppBar
+Scaffold
+Secció1
+Footer
