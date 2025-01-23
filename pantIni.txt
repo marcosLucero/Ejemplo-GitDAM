@@ -1,5 +1,6 @@
 AppBar
 Registre
+DisenyPagina
 Login
 Scaffold
 Secció1
