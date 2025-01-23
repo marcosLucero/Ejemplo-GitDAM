@@ -1,4 +1,6 @@
 AppBar
+Registre
+Login
 Scaffold
 Secció1
 Footer
