@@ -1,5 +1,6 @@
 AppBar
 Registre
+Enquesta
 Login
 Scaffold
 Secció1
